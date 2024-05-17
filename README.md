@@ -1,5 +1,7 @@
-Note that this project was done for university machine learning course.
 Sara Mohamed Korayem
+
+Note that this project was done for university machine learning course.
+
 # **Machine Learning Stroke Prediction Using Random Forest**
 ![image](https://github.com/SaraMKorayem/Machine-Learning/assets/169392560/77e0ac16-72db-4fb8-b5ed-41e8727f34f1)
 
