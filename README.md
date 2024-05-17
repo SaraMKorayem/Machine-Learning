@@ -1,9 +1,14 @@
+Note that this project was done for university machine learning course.
 Sara Mohamed Korayem
 # **Machine Learning Stroke Prediction Using Random Forest**
 ![image](https://github.com/SaraMKorayem/Machine-Learning/assets/169392560/77e0ac16-72db-4fb8-b5ed-41e8727f34f1)
 
 
 Stroke is the second deadliest disease globally and the third leading cause of disability. However, most stroke-related deaths can be prevented by recognizing its symptoms and implementing preventive measures through information technology(Eldora et al., 2024). This machine learning project focuses on predictive modeling for Stroke Prediction using two different models to compare and use the better approach. The two machine learning employed were Logistic Regression and Random Forest Classifier. Data preprocessing involved handling missing values and redundant columns. Exploratory Data Analysis (EDA) scrutinized data patterns and outliers. Feature engineering introduced new features to enhance predictive power.  Logistic Regression achieved an AUC accuracy of 88%, while Random Forest Classifier achieved 99%. Model evaluation included classification reports, confusion matrices, and feature importance analysis. The final models were fine-tuned and are ready for deployment, potentially providing valuable insights into stroke prediction in clinical settings.
+
+**Explanation video:** https://youtu.be/2kLpi_GqITE
+
+**Kaggle Dataset Link:** https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Ffedesoriano%2Fstroke-prediction-dataset 
 
 1: Data Exploration and Preprocessing
 Dataset Characteristics
