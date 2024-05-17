@@ -8,7 +8,7 @@ Stroke is the second deadliest disease globally and the third leading cause of d
 
 **Explanation video:** https://youtu.be/2kLpi_GqITE
 
-**Kaggle Dataset Link:** https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Ffedesoriano%2Fstroke-prediction-dataset 
+**Kaggle Dataset Link:** https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 1: Data Exploration and Preprocessing
 Dataset Characteristics
